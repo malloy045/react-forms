@@ -1,1 +1,3 @@
-../../packages/common/tsconfig.json
+{
+    "extends": "../../packages/common/tsconfig.json"
+}
